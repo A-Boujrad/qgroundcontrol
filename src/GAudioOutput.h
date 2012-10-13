@@ -20,7 +20,7 @@ This file is part of the PIXHAWK project
     along with PIXHAWK. If not, see <http://www.gnu.org/licenses/>.
 
 ======================================================================*/
-
+ 
 /**
  * @file
  *   @brief Definition of audio output
